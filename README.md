@@ -7,3 +7,4 @@
 - I think I may have figured it out
 - Hello this is a different commit
 - This is a test line from github.com
+- Finally another change
